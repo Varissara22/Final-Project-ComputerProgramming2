@@ -66,9 +66,7 @@ The project also serves a data collection purpose — player behaviour across mu
 
 ## 3. UML Class Diagram
 
-![UML Class Diagram](UML_Soul_Steep.png)
-
-[Download PDF version](UML_Soul_Steep.pdf)
+[UML PDF version](./UML_Soul_Steep.pdf)
 
 Key classes and relationships included in the diagram:
 
