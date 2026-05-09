@@ -48,6 +48,6 @@ A grouped bar chart showing ingredient usage split by slot (Water, TeaBag, Toppi
  
 ## Chart 5: Daily Success Rate
 
-![daily_success_rate](screenshots/visualization/daily_success_rate.png)
+![daily_success_rate](daily_success_rate.png)
  
 A line graph of average accuracy per day. All dots are red — no day reached the 70% pass threshold — showing accuracy remained consistently low across all 7 days with no clear improvement over time.
