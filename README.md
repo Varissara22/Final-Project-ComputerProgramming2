@@ -75,7 +75,7 @@ python data_game.py
 
 ---
 ## Unfinished Works
-All planned features from the project proposal have been implemented. 
+- All planned features from the project proposal have been implemented. 
 ---
 ## External Sources
 **Music:**
