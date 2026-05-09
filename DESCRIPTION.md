@@ -26,8 +26,8 @@
 
 - **Screenshots:**
 
-![Title Screen no continue](screenshots/gameplay/titlescreen_no_continue.PNG)
-![Title Screen with continue](screenshots/gameplay/titlescreen_continued.PNG)
+![Title Screen no continue](screenshots/gameplay/titlescreen_no_continue.png)
+![Title Screen with continue](screenshots/gameplay/titlescreen_continued.png)
 ![Daily letter begin of game](screenshots/gameplay/daily_letter.PNG)
 ![Brewing 3](screenshots/gameplay/hintcard.PNG)
 ![Brewing 1](screenshots/gameplay/maingame_brewing_1.PNG)
@@ -66,7 +66,7 @@ The project also serves a data collection purpose — player behaviour across mu
 
 ## 3. UML Class Diagram
 
-[UML PDF version](./UML _Soul_Steep.pdf)
+[UML PDF](./UML_Soul_Steep.pdf)
 
 Key classes and relationships included in the diagram:
 
