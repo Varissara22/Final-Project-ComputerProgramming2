@@ -1,0 +1,26 @@
+# Python cache files
+__pycache__/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.*
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Soul Steep specific
+soul_steep_save.json
+soul_steep_data.csv
+temp_ss_plot.png
