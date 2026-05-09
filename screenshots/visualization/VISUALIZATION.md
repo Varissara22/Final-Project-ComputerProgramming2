@@ -16,7 +16,7 @@ The statistics card updates automatically when a feature or session is selected,
  
 ## Chart 1: Brewing Accuracy
 
-![brewing accrracy](screenshots/visualization/brewing_accuracy.png)
+![brewing accrracy](brewing_accuracy.png)
  
 A scatter plot where each dot is one brew — green for pass (≥70%), red for fail (<70%). The data shows most brews fall well below the 70% threshold line, indicating the diagnostic challenge is genuinely difficult.
  
@@ -24,7 +24,7 @@ A scatter plot where each dot is one brew — green for pass (≥70%), red for f
  
 ## Chart 2: Diagnostic Duration
 
-![diagnostic_duration](screenshots/visualization/diagnostic_duration.png)
+![diagnostic_duration](diagnostic_duration.png)
  
 A line graph showing time spent per ghost across all sessions. Outliers above 300 seconds are removed. The Mean is 8.65 seconds and Median is 5.99, but visible spikes show some ghosts took significantly longer to diagnose.
  
@@ -32,7 +32,7 @@ A line graph showing time spent per ghost across all sessions. Outliers above 30
  
 ## Chart 3: Interaction Frequency
 
-![interaction_frequency](screenshots/visualization/interaction_frequency.png)
+![interaction_frequency](interaction_frequency.png)
  
 A boxplot of click counts per ghost grouped by day. Days 1–3 show wider boxes and higher medians, while Days 5–7 are tighter and lower — showing players became more efficient as the internship progressed.
  
@@ -40,7 +40,7 @@ A boxplot of click counts per ghost grouped by day. Days 1–3 show wider boxes 
  
 ## Chart 4: Ingredient Selection
 
-![ingredient_selection](screenshots/visualization/ingredient_selection.png)
+![ingredient_selection](ingredient_selection.png)
  
 A grouped bar chart showing ingredient usage split by slot (Water, TeaBag, Topping). Happiness was selected most frequently, especially as Water (41 uses), while Fear was the least used across all slots.
  
