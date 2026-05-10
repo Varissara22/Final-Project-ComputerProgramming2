@@ -9,7 +9,7 @@ Soul Steep is a simulation and narrative game where you play as a newly deceased
 ## Installation
 To clone this project:
 ```sh
-git clone https://github.com/<username>/soul-steep.git
+git clone https://github.com/Varissara22/Final-Project-ComputerProgramming2.git
 ```
 To create and run a Python environment for this project:
 
